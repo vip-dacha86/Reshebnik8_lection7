@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.AssemblyInfo.cs
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik8_lection7\task46\bin\Debug\net6.0\task46.exe
+C:\Git brance\Reshebnik8_lection7\task46\bin\Debug\net6.0\task46.deps.json
+C:\Git brance\Reshebnik8_lection7\task46\bin\Debug\net6.0\task46.runtimeconfig.json
+C:\Git brance\Reshebnik8_lection7\task46\bin\Debug\net6.0\task46.dll
+C:\Git brance\Reshebnik8_lection7\task46\bin\Debug\net6.0\task46.pdb
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.dll
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\refint\task46.dll
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.pdb
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\task46.genruntimeconfig.cache
+C:\Git brance\Reshebnik8_lection7\task46\obj\Debug\net6.0\ref\task46.dll
