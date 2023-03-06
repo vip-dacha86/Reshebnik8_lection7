@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.AssemblyInfo.cs
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik8_lection7\matrix\bin\Debug\net6.0\matrix.exe
+C:\Git brance\Reshebnik8_lection7\matrix\bin\Debug\net6.0\matrix.deps.json
+C:\Git brance\Reshebnik8_lection7\matrix\bin\Debug\net6.0\matrix.runtimeconfig.json
+C:\Git brance\Reshebnik8_lection7\matrix\bin\Debug\net6.0\matrix.dll
+C:\Git brance\Reshebnik8_lection7\matrix\bin\Debug\net6.0\matrix.pdb
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.dll
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\refint\matrix.dll
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.pdb
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\matrix.genruntimeconfig.cache
+C:\Git brance\Reshebnik8_lection7\matrix\obj\Debug\net6.0\ref\matrix.dll
